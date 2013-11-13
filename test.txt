@@ -1,5 +1,5 @@
 bla 1 edited in master
-bla 2
+bla 2 edited in develop2
 bla 3
 bla 4
 This line added in master
