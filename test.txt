@@ -5,4 +5,5 @@ bla 4
 This line added in master
 bla 3 Edited in develop
 This line added in develop
+This line also added in master
 
