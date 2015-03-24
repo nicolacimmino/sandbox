@@ -7,3 +7,5 @@ bla 3 Edited in develop
 This line added in develop
 This line also added in master
 Added this in feature1
+And finalized here feature1
+
