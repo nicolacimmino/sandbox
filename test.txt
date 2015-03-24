@@ -1,9 +1,9 @@
 bla 1 edited in master
 bla 2 edited in develop2
 bla 3
-bla 4
+bla 4 and feature1
 This line added in master
 bla 3 Edited in develop
 This line added in develop
 This line also added in master
-
+Added this in feature1
